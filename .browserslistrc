@@ -1,0 +1,8 @@
+# Browsers that we support
+
+[production staging]
+> 1% in HU
+
+[development]
+last 1 chrome version
+last 1 firefox version
